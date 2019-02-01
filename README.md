@@ -1,2 +1,2 @@
-# hello-word
-student
+# hello-world
+study
